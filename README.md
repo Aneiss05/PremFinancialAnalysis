@@ -1,4 +1,4 @@
-# Resumeprojects
+# PremFinancialAnalysis
 
 This repository contains `premleague.R`, an R script used for analyzing (or scraping) Premier League data.
 
